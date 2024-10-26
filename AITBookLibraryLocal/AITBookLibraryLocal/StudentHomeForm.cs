@@ -103,5 +103,25 @@ namespace AITBookLibraryLocal
             f1.Show();
             this.Hide();
         }
+
+        private void btnReserve_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void StudentHomeForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblHeaderStudentHome_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPublishYear_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

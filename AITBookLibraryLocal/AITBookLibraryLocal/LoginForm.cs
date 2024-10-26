@@ -81,5 +81,15 @@ namespace AITBookLibraryLocal
         {
             Application.Exit();
         }
+
+        private void lblMyName_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblHeaderLogin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

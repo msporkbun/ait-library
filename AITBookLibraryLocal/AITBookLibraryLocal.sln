@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITBookLibraryLocal", "AITBookLibraryLocal\AITBookLibraryLocal.csproj", "{E347EB63-0443-456D-9C7B-32F336767FE1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0E81FF12-87F7-4D82-BEA1-8BEEEC84E6DB} = {0E81FF12-87F7-4D82-BEA1-8BEEEC84E6DB}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayerLocal", "..\DataAccessLayerLocal\DataAccessLayerLocal\DataAccessLayerLocal.csproj", "{0E81FF12-87F7-4D82-BEA1-8BEEEC84E6DB}"
 EndProject
